@@ -1,2 +1,2 @@
-# data-science-toolbox
+# datasciencecoursera
 Repository for Coursera Data Science Toolbox Course
